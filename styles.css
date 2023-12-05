@@ -390,3 +390,36 @@ header h1 {
     position: fixed;
     z-index: 100;
 }
+.information-section {
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    border: 2px solid #007BFF;
+    color: #070707;
+}
+
+.section-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.information-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-column {
+    width: 48%; /* Adjust the width as needed */
+    text-align: left;
+}
+
+.right-column {
+    width: 48%; /* Adjust the width as needed */
+    text-align: left;
+}
+
+.right-column img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px; /* Add some top margin for spacing */
+}
