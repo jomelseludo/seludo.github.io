@@ -17,7 +17,7 @@ header {
     background-size: cover;
     padding: 1em 0;
     text-align: center;
-    color: #fff;
+    color: #000000;
     position: fixed;
     width: 100%;
     z-index: 1000;
@@ -150,7 +150,7 @@ section {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #333;
+    color: #000000;
     background-size: cover;
     background-position: center;
     opacity: 0;
@@ -273,7 +273,7 @@ header h1 {
     font-weight: bold; /* Make the text bold */
     font-size: 2em; /* Adjust the font size to your preference */
     margin-bottom: 20px; /* Add some bottom margin for spacing */
-    color: #fff; /* Set the text color to white */
+    color: #020202; /* Set the text color to white */
 }
 
 .section-content {
@@ -423,3 +423,4 @@ header h1 {
     height: auto;
     margin-top: 10px; /* Add some top margin for spacing */
 }
+
